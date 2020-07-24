@@ -1,0 +1,49 @@
+2020-07-24 09:30:57,268 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' G:\KundenaMadhu_Epam_Java_task8\Java8Task\pom.xml
+2020-07-24 09:31:19,343 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:Java8Task:0.0.1-SNAPSHOT @ G:\KundenaMadhu_Epam_Java_task8\Java8Task\pom.xml.
+2020-07-24 09:31:24,832 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Java8Task/src/main/java
+2020-07-24 09:31:24,846 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Java8Task/src/test/java
+2020-07-24 09:31:27,522 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 30 sec
+2020-07-24 09:31:28,702 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:31:28,703 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:31:28,705 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:31:28,705 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:31:44,368 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:31:44,368 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:31:44,369 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:31:44,370 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:34:40,053 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:34:40,054 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:34:40,055 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:34:40,055 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:36:19,326 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:36:19,327 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:36:19,328 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:36:19,328 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:42:41,674 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:42:41,675 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:42:41,676 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:42:41,677 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:44:18,044 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:44:18,045 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:44:18,052 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:44:18,053 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:44:38,995 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:44:38,995 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:44:38,996 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:44:38,997 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:45:35,719 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:45:35,719 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:45:35,721 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:45:35,722 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:45:53,049 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:45:53,050 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:45:53,081 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:45:53,082 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:47:07,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:47:07,928 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:47:07,929 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:47:07,929 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
+2020-07-24 09:50:52,551 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:50:52,552 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\main\resources
+2020-07-24 09:50:52,555 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 09:50:52,556 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\KundenaMadhu_Epam_Java_task8\Java8Task\src\test\resources
